@@ -1,0 +1,18 @@
+
+body {
+    font-family: cursive;
+    text-align: center;
+    background: beige;
+    font-size: 16px;
+}
+p {
+    color: darkgrey;
+    font-size: 18px;
+}
+a {
+    color: red;
+    text-decoration: none;
+    font-family: "Arial";
+    font-size: 14px;
+}
+
